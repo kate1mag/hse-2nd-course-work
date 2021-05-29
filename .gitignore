@@ -1,0 +1,17 @@
+#bin files
+*.a
+*.o
+*.exe
+
+#temporary files
+deps.inc
+*.cache
+*~
+
+#netbeans files
+nbproject/
+Makefile-bnb.mk
+
+
+Google_tests/lib/*
+cmake-build-debug/*
